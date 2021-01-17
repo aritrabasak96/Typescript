@@ -1,0 +1,8 @@
+Facade means face of a building 
+
+// simplify something which is complex
+// create a higher order simplify interface(not typical interface) in order to access complex sub system 
+
+
+
+// computer starting 

@@ -1,0 +1,3 @@
+we create a coc type game 
+characters => archer,giant,dragon,angel,newarcher,megagiant
+function => fly,break,fire,throw,walk,refill,heal

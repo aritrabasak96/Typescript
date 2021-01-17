@@ -1,0 +1,2 @@
+when we do not have direct access to the object properties 
+then we have a interface that can give command to the object for accessing properties 
